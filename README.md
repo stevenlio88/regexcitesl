@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-\*\*NOTE: This is a test package created for learning purposes.
+**NOTE: This is a test package created for learning purposes.**
 
 # regexcitesl
 
