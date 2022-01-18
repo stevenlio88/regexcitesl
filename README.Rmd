@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-**NOTE: This is a test package created for learning purposes.
+**NOTE: This is a test package created for learning purposes.**
 
 # regexcitesl
 
